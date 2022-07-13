@@ -4,7 +4,7 @@
 I'm Roger, mobile developer by day and also by night :D
 </p>
 
-[![Linkedin](https://img.shields.io/twitter/follow/rogercue95?style=social)](https://www.linkedin.com/in/roger-cuesta-vailles/)
+![Linkedin](https://img.shields.io/badge/-rogercue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-cuesta-vailles/)
 [![GitHub](https://img.shields.io/github/followers/eborrallo?label=follow&style=social)](https://github.com/RogerCuesta)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rogercue95?style=social)
 
