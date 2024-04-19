@@ -1,25 +1,28 @@
-<h3 align="center">Hi there 👋</h3>
-<p align="center">
-    
-I'm Roger, mobile developer by day and also by night :D
-</p>
+Welcome to my GitHub profile! I'm a dedicated mobile developer with a passion for crafting seamless experiences, whether it's day or night! 
 
-![Linkedin](https://img.shields.io/badge/-rogercue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-cuesta-vailles/)
-[![GitHub](https://img.shields.io/github/followers/eborrallo?label=follow&style=social)](https://github.com/RogerCuesta)
-![Twitter Follow](https://img.shields.io/twitter/follow/rogercue95?style=social)
+### About Me
 
-<p>
-<a href="#"><img src="https://img.shields.io/badge/Flutter-Expert-_.svg?logo=Flutter&color=green"></a>
-<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+- 🌱 Currently diving deep into the world of web3 integrating it with Flutter.
+- 👯 Open to collaboration on exciting projects.
+- 📫 Reach me via [Email](mailto:kitanoken@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/roger-cuesta-vailles/)!
 
-</p>
+### What I'm Working On
 
----
-Here are some things about me :
+I'm currently immersed in a Flutter web3 app project. Here's a glimpse of what I'm up to:
 
-- 🌱 I’m currently learning about **web3** and cryptos.
-    - Working in a Flutter Web3 app to test Wallet Connect, Sign or Send transactions, get data from smartscontracts, etc [Web3](https://github.com/RogerCuesta/flutter_web3)
-- 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
-- 📫 How to reach me: [Email](mailto:rogercuesta@gmail.com), [LinkedIn](https://www.linkedin.com/in/roger-cuesta-vailles/)
+- Developing a Flutter Web3 app to explore functionalities like Wallet Connect, transaction signing, and interacting with smart contracts.
+- Excited to delve into the intricacies of web3 technologies, pushing the boundaries of decentralized applications.
 
-So YES im a **Mobile Dev with Flutter and Web3**
+### Experience
+
+With over 6 years of experience in Flutter development, I've had the privilege to contribute to projects of various scales, from startups to established companies. Let's build something amazing together!
+
+### Let's Connect!
+
+Feel free to explore my projects and reach out if you'd like to collaborate or discuss anything tech-related. You can find me on [LinkedIn](https://www.linkedin.com/in/roger-cuesta-vailles/) and [GitHub](https://github.com/RogerCuesta), or drop me an [Email](mailto:kitanoken@protonmail.com).
+
+Looking forward to connecting with you!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/kitanoken95?style=social)
+
+
